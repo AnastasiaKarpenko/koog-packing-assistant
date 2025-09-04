@@ -110,5 +110,5 @@ Print the final JSON (“— PACKING LIST (JSON) —”).
 4. Get the Open Weather API key and save it here https://github.com/AnastasiaKarpenko/koog-packing-assistant/blob/b9cadcef250e8c127ad13810164b491beee6d1e8/.env#L1
 
 ## Run 
-To run the project just run the Main.kt 
+To run the project just run the Main.kt. Make sure you are also running Ollama.
 
